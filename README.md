@@ -3,7 +3,7 @@ Im currently working on developing my programming skills for an engineering back
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1logan_nelson1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-nelson-431bb83b5/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@1logan_nelson1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@1logan_nelson1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](lnelson.mechanical@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1logan_nelson1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-nelson-431bb83b5/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@1logan_nelson1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@1logan_nelson1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](lnelson.mechanical@gmail.com) [![Spotify](https://img.shields.io/badge/Spotify-%21E4405F.svg?logo=Spotify&logoColor=black)](https://instagram.com/1logan_nelson1) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
