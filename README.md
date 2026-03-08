@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on developing my programming skills for an engineering background<br>I’m looking to collaborate on basic python projects<br>Fun Facts:<br>I am a drummer playing in a band called Retromode<br>I am studying Mechanical Engineering at ECU<br>I love animals and most definitely a dog person<br>My favourite band is Karnivool<br>
+Im currently working on developing my programming skills for an engineering background<br>I’m looking to collaborate on basic python projects<br>Fun Facts:<br> - I am a drummer playing in a band called Retromode<br> - I am studying Mechanical Engineering at ECU<br> - I love animals and most definitely a dog person<br> - My favourite band is Karnivool<br>
 
 
 ## 🌐 Socials:
